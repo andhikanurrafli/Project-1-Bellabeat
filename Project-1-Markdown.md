@@ -25,7 +25,7 @@ people will engage to our product.
 ### **Preparing the Data**
 
 In this step I want to determine first problem that bellabeat has. First
-we need to load the data
+we need to load the data, at this step I load the data in my computer so I'm using this commands.
 
 ``` r
 # importing the data
