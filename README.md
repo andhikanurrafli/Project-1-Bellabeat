@@ -9,6 +9,8 @@ This a fictional case in Bellabeat where I the stakeholders told me to
 analyse the behavior of users in Using the bellabeat. In this case I
 will use RStudio for analyzing it.
 
+### For the dashboard you can see it [here](https://public.tableau.com/views/BellabeatUserTrends/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Determining the Business question
 
 To make this project clear I’m aiming some specific targets, which is:  
@@ -483,4 +485,4 @@ following recommendations are proposed:
   recommendations according to user segments.
 
 
-I also has made the Dashboard Visualization [here]: https://public.tableau.com/views/BellabeatUserTrends/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+I also has made the Dashboard Visualization [here](https://public.tableau.com/views/BellabeatUserTrends/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
