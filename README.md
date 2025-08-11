@@ -481,3 +481,6 @@ following recommendations are proposed:
 - **Future Studies**: Future analyses should consider seasonal,
   demographic, or lifestyle factors to identify deeper trends and tailor
   recommendations according to user segments.
+
+
+I also has made the Dashboard Visualization [here]: https://public.tableau.com/views/BellabeatUserTrends/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
